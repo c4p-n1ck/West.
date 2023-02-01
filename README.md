@@ -35,4 +35,4 @@ Tests for Windows and Linux. Should function everywhere where Python is installe
 * [EaST exploits developer guide](https://github.com/C0reL0ader/EaST/wiki)
 * [Twitter](https://twitter.com/EAST_framework)
 ---
-Organ!c + G[0]LD ~ "Old" stuff - all together! ~ doing my "own" best `hehe.` :smiley:
+Organ!c + G[0]LD ~ "Old" stuff - all together! ~ doing my "own" best `hehe.` :smiley: - Forked thinking something cool ~ Let's just see how it drives now.
